@@ -1,0 +1,15 @@
+C:\Users\zubey\Desktop\01_C#\bin\Debug\net6.0\01_C#.exe
+C:\Users\zubey\Desktop\01_C#\bin\Debug\net6.0\01_C#.deps.json
+C:\Users\zubey\Desktop\01_C#\bin\Debug\net6.0\01_C#.runtimeconfig.json
+C:\Users\zubey\Desktop\01_C#\bin\Debug\net6.0\01_C#.dll
+C:\Users\zubey\Desktop\01_C#\bin\Debug\net6.0\01_C#.pdb
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\01_C#.csproj.AssemblyReference.cache
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\01_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\01_C#.AssemblyInfoInputs.cache
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\01_C#.AssemblyInfo.cs
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\01_C#.csproj.CoreCompileInputs.cache
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\01_C#.dll
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\refint\01_C#.dll
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\01_C#.pdb
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\01_C#.genruntimeconfig.cache
+C:\Users\zubey\Desktop\01_C#\obj\Debug\net6.0\ref\01_C#.dll
